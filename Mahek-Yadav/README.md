@@ -1,5 +1,6 @@
 # Assignment 09 - Pharmacy & Healthcare Store API
 
+Live link - https://pharmacy-management-api-7pmv.onrender.com
 
 ## Tech stack
 Node.js, Express.js, MongoDB Atlas, Mongoose, JWT, bcryptjs, dotenv, cors.
